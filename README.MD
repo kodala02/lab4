@@ -77,8 +77,8 @@ Make sure you have the following installed on your system:
 
 ## Usage
 
-- **Home Page:** http://localhost:8000/
-- **Contacts:** http://localhost:8000/contacts/
-- **Help:** http://localhost:8000/help/
+- **Home Page:** http://localhost:8000/contact_app/
+- **Contacts:** http://localhost:8000/contact_app/contacts/
+- **Help:** http://localhost:8000/contact_app/help/
 
 Explore the pages and manage your contacts through the provided interface.
