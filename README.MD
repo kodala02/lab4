@@ -82,7 +82,3 @@ Make sure you have the following installed on your system:
 - **Help:** http://localhost:8000/help/
 
 Explore the pages and manage your contacts through the provided interface.
-
-```
-
-```
